@@ -16,7 +16,9 @@ list_of_files=[
     "src/pipeline/prediction_pipeline.py",
     "src/utils/__init__.py",
     "src/utils/utils.py",
+    "src/database/__init__.py"
     "src/database/mongo_db.py",
+    "src/logger/__init__.py",
     "src/logger/logging.py",
     "src/exception/exception.py",
     "tests/unit/__init__.py",
@@ -24,7 +26,7 @@ list_of_files=[
     "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
-    "setup.py"
+    "setup.py",
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
